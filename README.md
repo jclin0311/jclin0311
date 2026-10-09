@@ -26,10 +26,7 @@ MSCS student at the University of Pennsylvania, building **AI infrastructure**: 
 | Project | What it is | Stack |
 |---|---|---|
 | [**BankStackAI**](https://github.com/jclin0311/BankStackAI) | Microservices banking platform with an AI layer: core banking services, an MCP tool server, a RAG service and a multi-agent orchestrator. Includes a [runtime walkthrough](https://jclin0311.github.io/BankStackAI/demo.html) that traces a real request hop by hop. | Spring Boot · Kafka · Postgres · Spring AI · Ollama |
-| [**GoForge**](https://github.com/jclin0311/GoForge) | Cloud-native platform for orchestrating model-serving and backend microservices, with service mesh, canary releases and observability. | Go · Kubernetes · gRPC · Istio · Helm |
-| [**StuMate**](https://github.com/jclin0311/StuMate) | Local learning app: chat with a local LLM while a note agent turns the conversation into a quiz library. | Java · Spring Boot · React · Ollama |
 | [**Pattern Quiz**](https://github.com/jclin0311/quiz) | Learn to recognize algorithm patterns through multiple-choice quizzes with Socratic explanations, review scheduling and graph-based recommendations. | Next.js · FastAPI · SQLAlchemy · Postgres |
-| [**housing-agent**](https://github.com/jclin0311/housing-agent) | Agent that filters sublease listings down to the ones that match your requirements. | TypeScript |
 | [**http_search_server**](https://github.com/jclin0311/http_search_server) | Multi-threaded HTTP search server with an inverted index, built for UPenn CIT 5950. | C++ · POSIX sockets |
 
 ---
